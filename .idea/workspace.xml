@@ -13,13 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4c07578-1897-4c32-97b5-2876b8cf903d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/health_check.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/zero2prod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zero2prod.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +68,29 @@
       <updated>1605696826387</updated>
       <workItem from="1605696827496" duration="599000" />
       <workItem from="1606747326855" duration="26000" />
-      <workItem from="1606747361621" duration="11898000" />
+      <workItem from="1606747361621" duration="11970000" />
     </task>
+    <task id="LOCAL-00001" summary="health_check endpoint and partial subscriptions">
+      <created>1606766605426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606766605426</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="health_check endpoint and partial subscriptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="health_check endpoint and partial subscriptions" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="523" y="101" width="912" height="912" key="CommitChangelistDialog2" timestamp="1606766605308">
+      <screen x="48" y="27" width="1872" height="1053" />
+    </state>
+    <state x="523" y="101" width="912" height="912" key="CommitChangelistDialog2/48.27.1872.1053@48.27.1872.1053" timestamp="1606766605308" />
   </component>
 </project>
